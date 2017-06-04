@@ -17,5 +17,5 @@ List of My Online Courses (from Coursera and EdX)
 
 14. Algorithms, Part II, Princeton (*will start*)
 15. Perfect Tenses and Modals, UCI (*will start*)
-16. English for Science, Technology, Engineering, and Mathematics, UPenn (*will start)
+16. English for Science, Technology, Engineering, and Mathematics, UPenn (*will start*)
 
