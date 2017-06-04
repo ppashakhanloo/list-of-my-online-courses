@@ -1,4 +1,4 @@
-List of My Online Courses (from Coursera and EdX)
+List of My Online Courses (from Coursera, EdX, and other sources)
 
 1. Cryptography I, Stanford University (*finished*)
 2. Automata, Stanford University (*finished*)
@@ -13,11 +13,9 @@ List of My Online Courses (from Coursera and EdX)
 11. AngularJS: Framework Fundamentals, Microsoft (*finished*)
 12. Understanding Memory: Explaining the Psychology of Memory through Movies, Wesleyan University (*finished*)
 
-
+13. Latin, http://www.nationalarchives.gov.uk/latin/beginners/default.htm, (*in progress*)
 13. Algorithms, Part I, Princeton (*about to finish*)
-
 
 14. Algorithms, Part II, Princeton (*will start*)
 15. Perfect Tenses and Modals, UCI (*will start*)
 16. English for Science, Technology, Engineering, and Mathematics, UPenn (*will start*)
-
