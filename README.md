@@ -10,10 +10,12 @@ List of My Online Courses (from Coursera and EdX)
 8. Grammar and Punctuation, UCI (*finished*)
 9. The Science of Everyday Thinking, University of Queensland (*finished*)
 10. Write Professional Emails in English, GeorgiaTech (*finieshed*)
+11. AngularJS: Framework Fundamentals, Microsoft (*finished*)
+12. Understanding Memory: Explaining the Psychology of Memory through Movies, Wesleyan University (*finished*)
 
-11. Algorithms, Part I, Princeton (*about to finish*)
+13. Algorithms, Part I, Princeton (*about to finish*)
 
-12. Algorithms, Part II, Princeton (*will start*)
-13. Perfect Tenses and Modals, UCI (*will start*)
-14. How to Write and Publish a Scientific Paper, EPFL (*will start*)
-15. Functional Programming Principles in Scala, EPFL (*will start*)
+14. Algorithms, Part II, Princeton (*will start*)
+15. Perfect Tenses and Modals, UCI (*will start*)
+16. English for Science, Technology, Engineering, and Mathematics, UPenn (*will start)
+
