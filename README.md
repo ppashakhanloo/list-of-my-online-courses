@@ -13,7 +13,9 @@ List of My Online Courses (from Coursera and EdX)
 11. AngularJS: Framework Fundamentals, Microsoft (*finished*)
 12. Understanding Memory: Explaining the Psychology of Memory through Movies, Wesleyan University (*finished*)
 
+
 13. Algorithms, Part I, Princeton (*about to finish*)
+
 
 14. Algorithms, Part II, Princeton (*will start*)
 15. Perfect Tenses and Modals, UCI (*will start*)
