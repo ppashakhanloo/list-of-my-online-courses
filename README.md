@@ -1,4 +1,4 @@
-List of My Online Courses (from Coursera, EdX, and other sources)
+List of My Favorite Online Courses (from Coursera, EdX, and other sources)
 
 1. Cryptography I, Stanford University (*finished*)
 2. Automata, Stanford University (*finished*)
