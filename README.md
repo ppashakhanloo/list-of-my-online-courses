@@ -14,8 +14,4 @@ List of My Favorite Online Courses (from Coursera, EdX, and other sources)
 12. Understanding Memory: Explaining the Psychology of Memory through Movies, Wesleyan University (*finished*)
 
 13. Latin, http://www.nationalarchives.gov.uk/latin/beginners/default.htm, (*in progress*)
-14. Algorithms, Part I, Princeton (*about to finish*)
-
-15. Algorithms, Part II, Princeton (*will start*)
-16. Perfect Tenses and Modals, UCI (*will start*)
-17. English for Science, Technology, Engineering, and Mathematics, UPenn (*will start*)
+14. Algorithms, Part I, Princeton (*finished*)
